@@ -1,0 +1,26 @@
+site_name: EESSI WSL Clients
+site_description: Control Your Data
+site_author: EESSI Consortium
+docs_dir: docs
+
+nav:
+- Home: index.md
+- Why WSL?: Why_WSL.md
+- Getting Started:
+    - Requirements: 'getting_started/requirements.md' 
+    - Supported Linux versions: 'getting_started/linux.md'
+    - Download: 'getting_started/download.md'
+    - Linux Installation: 'getting_started/installation.md'
+    - Client Installation: 'getting_started/eessi_install.md'
+- About: about.md
+- Legacy Release Notes: 'legacy_release_notes.md'
+
+theme:
+   name: readthedocs
+   navigation_depth: 3
+   titles_only: False
+
+markdown_extensions:
+ - admonition
+ - attr_list
+ - def_list
