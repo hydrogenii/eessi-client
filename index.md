@@ -1,4 +1,4 @@
-![EESSI](images/eessi-wsl.png)
+![EESSI](docs/images/eessi-wsl.png)
 
 ###  European Environment for Scientific Software Installations
 
