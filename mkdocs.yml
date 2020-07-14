@@ -1,5 +1,6 @@
 site_name: "EESSI WSL Clients"
-site_url: https://hydrogenii.github.io/eessi-client/
+site_url: https://github.io/hydrogenii/eessi-client/
+repo_url: https://github.com/irods/irods_docs
 site_author: EESSI Consortium
 docs_dir: docs
 
